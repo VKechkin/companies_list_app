@@ -1,0 +1,61 @@
+.companies-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    border-bottom: 3px solid #437276;
+    border-right: 3px solid #437276;
+    font-size: 24px;
+  }
+
+  .checkbox-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    border-bottom: 3px solid #437276;
+    border-right: 3px solid #437276;
+    gap: 10px;
+
+    #companies {
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+    }
+  }
+
+  .company-table {
+    overflow-y: scroll;
+    height: 400px;
+    border-bottom: 1px solid #437276;
+    border-right: 1px solid #437276;
+
+    .table {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      align-items: center;
+      padding: 10px 0;
+      border-bottom: 1px solid #437276;
+
+      &__mark {
+        width: 10%;
+      }
+
+      &__name,
+      &__number,
+      &__address {
+        width: 30%;
+      }
+    }
+
+    .table-color {
+      color: green;
+    }
+  }
+}

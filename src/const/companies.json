@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "companyName": "UIT",
+        "isChecked": false,
+        "numberOfEmployees": 500,
+        "address": {
+            "country": "Russia1",
+            "city": "11Gwenborough",
+            "street": "11Kulas Light",
+            "house": 1
+        }
+    },
+    {
+        "id": 2,
+        "companyName": "Exceed",
+        "isChecked": false,
+        "numberOfEmployees": 300,
+        "address": {
+            "country": "Russia2",
+            "city": "22Gwenborough",
+            "street": "22Kulas Light",
+            "house": 2
+        }
+    },
+    {
+        "id": 3,
+        "companyName": "Fojin",
+        "isChecked": false,
+        "numberOfEmployees": 100,
+        "address": {
+            "country": "Russia3",
+            "city": "33Gwenborough",
+            "street": "33Kulas Light",
+            "house": 3
+        }
+    },
+    {
+        "id": 4,
+        "companyName": "EIT",
+        "isChecked": false,
+        "numberOfEmployees": 2504,
+        "address": {
+            "country": "Russia4",
+            "city": "44Gwenborough",
+            "street": "44Kulas Light",
+            "house": 4
+        }
+    },
+    {
+        "id": 5,
+        "companyName": "Jupiter",
+        "isChecked": false,
+        "numberOfEmployees": 150,
+        "address": {
+            "country": "Russia5",
+            "city": "55Gwenborough",
+            "street": "55Kulas Light",
+            "house": 5
+        }
+    },
+    {
+        "id": 6,
+        "companyName": "Umbrella IT",
+        "isChecked": false,
+        "numberOfEmployees": 4368,
+        "address": {
+            "country": "Russia7",
+            "city": "77Gwenborough",
+            "street": "77Kulas Light",
+            "house": 7
+        }
+    },
+    {
+        "id": 7,
+        "companyName": "Umbrella IT 2",
+        "isChecked": false,
+        "numberOfEmployees": 4368,
+        "address": {
+            "country": "Russia7",
+            "city": "77Gwenborough",
+            "street": "77Kulas Light",
+            "house": 7
+        }
+    },
+    {
+        "id": 8,
+        "companyName": "Umbrella IT 3",
+        "isChecked": false,
+        "numberOfEmployees": 4368,
+        "address": {
+            "country": "Russia7",
+            "city": "77Gwenborough",
+            "street": "77Kulas Light",
+            "house": 7
+        }
+    },
+    {
+        "id": 9,
+        "companyName": "Umbrella IT 4",
+        "isChecked": false,
+        "numberOfEmployees": 4368,
+        "address": {
+            "country": "Russia7",
+            "city": "77Gwenborough",
+            "street": "77Kulas Light",
+            "house": 7
+        }
+    }
+]
